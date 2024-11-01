@@ -1,0 +1,262 @@
+#main_div {
+    width: 467px;
+    height: 663px;
+    /* background-color: #000; */
+    margin: 0 0 0 30%;
+}
+
+#top {
+    width: 100%;
+    height: 20%;
+    position: relative;
+
+}
+
+#left {
+    width: 35%;
+    height: 80%;
+    /* background-color: rgb(22, 22, 227); */
+    float: left;
+}
+
+#right {
+    width: 65%;
+    height: 80%;
+    /* background-color: rgb(22, 227, 22); */
+    float: right;
+}
+
+#right_body {
+    width: 325px;
+    height: 534px;
+    background-color: rgb(244, 243, 243);
+    margin-top: -21px;
+    margin-left: -20px;
+    float: right;
+    /* position: static; */
+
+
+}
+
+#img {
+    border: 5px solid white;
+    border-radius: 100%;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -160px;
+
+}
+
+
+#sv2 {
+    margin-top: -137.7px;
+    margin-right: -0.6px;
+    float: right;
+    /* position: relative; */
+
+}
+
+#sv3 {
+    padding: 0 0 0 30%;
+    margin-top: -101px;
+    float: right;
+    /* position: relative; */
+}
+
+#sv4 {
+    margin-top: -160px;
+    position: absolute;
+    width: 146px;
+    height: 800px;
+}
+
+#sv5 {
+    margin-top: -34px;
+    position: absolute;
+}
+
+#sv6 {
+
+    padding: 2% 0 0 0;
+    position: absolute;
+}
+
+#sv7 {
+    padding: 13% 0 0 0;
+    position: absolute;
+}
+
+#sv8 {
+    padding: 25% 0 0 0;
+    position: absolute;
+}
+
+.contact,
+.lenguage,
+.skills {
+    position: absolute;
+    top: 190px;
+    left: 475px;
+    font-family: var(--font-inder);
+    color: white;
+}
+
+.lenguage,
+.skills {
+    top: 353px;
+    left: 485px;
+}
+
+.lenguage {
+    top: 530px;
+    left: 470px;
+}
+
+.emon-khan {
+    position: absolute;
+    top: 42px;
+    left: 220px;
+    color: #000;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 0.6px;
+}
+
+.lorem-ipsum-dolor {
+    position: absolute;
+    top: 72px;
+    left: 220px;
+    color: #000;
+
+    font-family: Lato;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#ABM {
+    padding: 18px 0 0 35px;
+    color: #000;
+    font-family: Lato;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: normal;
+    
+}
+
+
+
+#ABM_p {
+    
+    padding: 1px 0 0 35px;
+    color: #000;
+    font-family: Lato;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.24px;
+    word-wrap: break-word;
+    
+    
+}
+.div{
+    margin-bottom: 15px;
+}
+
+#EDU,#experience
+{
+margin: 0;
+color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+position: absolute;
+padding: 0 0 0 13px;
+}
+
+#img1,#img_ex{
+    padding: 0 0 0 5%;
+}
+#contract_class,#skills_div,#language_div
+{
+    padding: 70px 0 0 11px;
+    color: rgb(220, 213, 213);
+    text-align: left-justify;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    position: absolute;
+}
+
+#skills_div{
+    margin-top:-50px;
+    margin-left: -30px;
+    font-size: 13px;
+}
+
+#language_div{
+    margin-top: 340px;
+    font-size: 13px;
+}
+
+.edu_year_label
+{
+color: #000;
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.group{
+    margin-top: 0px;
+    margin-left: 20px;
+  
+}
+.group table{
+    border-collapse: collapse;
+    border-spacing: 0 1px;
+}
+
+.edu_label{
+
+color: #000;
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.edu_label1{
+    display: -webkit-box;
+    /* text-align: -webkit-center; */
+    margin-left: 20px;
+    margin-top: 0px;
+    color: #000;
+    font-family: Lato;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+
+.div1
+{
+ margin-top: -15px;
+}
+
+
