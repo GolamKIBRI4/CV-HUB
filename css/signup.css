@@ -1,0 +1,205 @@
+.left{
+    background-color: rgb(226, 226, 226);
+    height: 100vh;
+}
+.right{
+    padding-top: 5%;
+    
+}
+.up{
+    height: 20%;
+}
+.up2{
+    height: 20%;
+}
+.cus{
+    margin-top: 10%;
+}
+
+.img-logo{
+    width: 40% !important;
+}
+.bold{
+    font-family: 'Roboto', sans-serif;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.join{
+    padding: 0 !important;
+}
+.down{
+    height: 80%;
+    position: relative;
+}
+.line {
+    border-top: 3px solid white;
+}
+
+
+/* CSS */
+.button-18 {
+  align-items: center;
+  background-color: white;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: rgb(238, 165, 70);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  width: 350px !important;
+}
+
+.button-18:hover,
+.button-18:focus { 
+  background-color: #e8edf1;
+  color: rgb(238, 165, 70);
+}
+
+.button-18:active {
+  background: #606468;
+  color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, .08);
+  color: rgba(0, 0, 0, .3);
+}
+.login-image{
+    width: 20px;
+}
+.log-img{
+    padding: 0 !important;
+    position: absolute;
+    bottom: 0;
+}
+.logo{
+    margin: auto !important;
+}
+.last{
+    padding-left: 5% !important;
+    color: rgb(238, 165, 70);
+   
+}
+.lasttt{
+    padding-bottom: 5% !important;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+    padding-top: 0%;
+    color: rgb(238, 165, 70);
+   
+}
+.lasttt2{
+    color: rgb(238, 165, 70);
+   
+}
+.last2{
+    color: rgb(238, 165, 70);
+   
+}
+.login{
+    font-size: 2.5rem;
+    font-style: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom:2rem !important;
+    margin-top:2rem !important;
+}
+.last2{
+    margin-top: 7rem !important;
+
+}
+.pad{
+    padding-top: 25px;
+}
+.padc{
+    padding-top: 15px;
+}
+.padf2{
+    padding-bottom: 25px;
+}
+.custom-btn{
+    color: white !important;
+    background-color: rgb(238, 165, 70) !important;
+    border-color: rgb(238, 165, 70) !important;
+    padding-top: 20px;
+    width: 100% !important;
+    height: 50px !important;
+}
+.custom-btn:hover{
+    background-color: rgb(220, 140, 35) !important;
+    border-color: rgb(220, 140, 35) !important;
+}
+.btn1{
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+.btn2{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.custom-btn2{
+    background-color: rgb(178, 176, 174) !important;
+    border-color: rgb(178, 176, 174) !important;
+    padding-top: 20px;
+    width: 100% !important;
+    height: 50px !important;
+}
+.custom-btn2:hover{
+    background-color: rgb(148, 146, 144) !important;
+    border-color: rgb(148, 146, 144) !important;
+}
+.forget{
+    margin-top: 20px !important;  
+}
+.forget a{
+    color: rgb(238, 165, 70) !important;
+}
+.forget a:hover{
+    color: rgb(210, 145, 60) !important;
+}
+
+
+@media (max-width:992px) {
+    .last{
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        color: rgb(238, 165, 70);
+       
+    }
+    .last2{
+        margin-top: 0 !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        color: rgb(238, 165, 70);
+       
+    }
+}
+.nnn{
+  margin-left: 2% !important;
+}
+.swal2-styled.swal2-confirm{
+    background-color: rgb(238, 165, 70) !important;
+}
+.swal2-styled.swal2-confirm:hover{
+    background-color: rgb(188, 130, 53) !important;
+    translate: all 0.3s;
+}

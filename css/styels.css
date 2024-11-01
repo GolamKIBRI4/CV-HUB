@@ -1,0 +1,257 @@
+
+
+.main-body{
+    padding: 7% !important;
+    padding-top: 10% !important;
+}
+.custom2{
+    width: 160px !important;
+    height: 160px !important;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 100% !important;
+    border: 5px solid rgb(238, 165, 70);
+}
+.custom3{
+  
+  margin: auto;
+
+}
+.custom2:hover{
+    border: 5px solid rgb(117, 117, 117);
+    /* width: 55% !important; */
+    transition: all 0.3s;
+    filter: none;
+    -webkit-filter: grayscale(100%);
+}
+
+.bb{
+    font-size: 0.9rem;
+    color: rgb(81, 79, 79);
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: "Dosis";
+}
+.a{
+    font-size: 0.9rem;
+    font-style: bold !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: #000;
+    font-family: "Dosis";
+    
+}
+.cus-b1{
+    margin-top: 20px;
+    height: 50px;
+    color: white !important;
+    background-color: rgb(238, 165, 70) !important;
+    border-color: rgb(238, 165, 70) !important;
+    margin-bottom: 10px !important;
+
+}
+.cus-b3{
+    margin-top: 10px;
+    width:150px;
+    color: white !important;
+    background-color: rgb(238, 165, 70) !important;
+    border-color: rgb(238, 165, 70) !important;
+    margin-bottom: 10px !important;
+
+}
+.cus-b1:hover{
+    background-color: rgb(220, 140, 35) !important;
+    border-color: rgb(220, 140, 35) !important;
+}
+.cus-b3:hover{
+    background-color: rgb(220, 140, 35) !important;
+    border-color: rgb(220, 140, 35) !important;
+}
+.nav-item{
+    margin-left: 7px;
+    margin-right: 7px;
+    color: rgb(238, 165, 70) !important;
+}
+.nav-item a {
+    color: #0f394c !important;
+}
+.nav-item a:hover {
+    color: rgb(238, 165, 70) !important;
+    font-size: 0.97rem !important;
+    transition: all 0.3s;
+}
+.pro:hover{
+    width: 41px;
+    height: 41px;
+    /* border-radius: 50%; */
+    /* cursor: pointer; */
+    border: 4.5px solid rgb(238, 165, 70);
+    transition: all 0.3s;
+}
+.logo{
+    margin-left: 2%;
+    padding: 0;
+}
+.b{
+    margin-right: 20px !important;
+    padding-right: 0 !important;
+}
+.mbody{
+    /* height: 100vh; */
+    margin-bottom: 20%;
+}
+.onep{
+    text-align: justify;
+    margin-top: 10px;
+    font-size: 1rem;
+}
+.col-one{
+    padding: 50px !important;
+}
+.img-3{
+    width: 100%;
+    padding: 50px;
+}
+.t1{
+    font-size: 3rem;
+    color: rgb(238, 165, 70);
+    font-style: bold;
+    font-weight: bolder;
+    font-family: "Dosis", sans-serif;
+}
+.t2{
+    color: rgb(122, 122, 122);
+    font-family: "Dosis", sans-serif;
+
+}
+.epad{
+    margin-bottom: 70px;
+}
+.padfff{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.pro{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 3.5px solid rgb(138, 138, 137);
+}
+.dropdown-menusss {
+    max-height: 300px;
+    overflow-y: scroll;
+  }
+  a{
+    font-family: "Dosis", sans-serif;
+  }
+  p{
+    font-family: "Dosis", sans-serif;
+  }
+
+.card:hover{
+    transform: scale(1.05);
+    transition: all 0.3s;
+    cursor: pointer;
+    background-color: rgb(255, 162, 0, 0.15) !important;
+}
+
+.pagination > li.active > a, .pagination > li.active > span{
+    background-color:rgb(255, 162, 0) !important;
+    border-color: rgb(255, 162, 0) !important;
+}
+.pagination > li > a{
+    color: rgb(255, 162, 0) !important;
+}
+.pagination > li.active > a{
+    color: rgb(255, 255, 255) !important;
+}
+.card-title{
+    font-size: 1rem;
+}
+.swal2-styled.swal2-confirm{
+    background-color: rgb(238, 165, 70) !important;
+}
+.swal2-styled.swal2-confirm:hover{
+    background-color: rgb(188, 130, 53) !important;
+    translate: all 0.3s;
+}
+.pro-img{
+    border-radius: 3px;
+    width: 100px;
+    border: 2.5px solid rgb(238, 165, 70);
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+
+
+
+.card{
+  overflow: hidden;
+}
+
+
+
+.pagination{
+  text-align: center;
+  /* margin: 30px 30px 60px; */
+  user-select: none;
+}
+
+.pagination li{
+  display: inline-block;
+  /* margin: 5px; */
+  box-shadow: 0 5px 25px rgb(1 1 1 / 10%);
+}
+
+.pagination li a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2em;
+  line-height: 45px;
+}
+
+.previous-page, .next-page{
+  /* background: #0AB1CE; */
+  width: 80px;
+  border-radius: 45px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.previous-page:hover{
+  transform: translateX(-5px);
+}
+
+.next-page:hover{
+  transform: translateX(5px);
+}
+
+.current-page, .dots{
+  background: #ccc;
+  width: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+
+.disable{
+  background: #ccc;
+}
+      
+
+.search-field input:hover{
+  scale: 1.03;
+  box-shadow: 0 5px 25px rgb(1 1 1 / 10%);
+  transition: 1s all !important;
+}
+
